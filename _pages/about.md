@@ -19,7 +19,7 @@ School of Mathematics and Statistics, Shandong University of Technology
 E-mail: zfsun@sdut.eu.cn<br>
 | [Github](https://github.com/jindongwang) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_jindongwang_cn-eng.pdf)
 
-I'm currently a teacher at [Shandong University of Technology(SDUT)](https://www.sdut.edu.cn/). Before joining SDUT, I obtained my Ph.D. from School of Mathematical Sciences, Capital Normal University in June, 2009.  In 2021/08--2021/10, I was a visitor of Prof. [Yunbin Zhao](http://www.sribd.cn/teacher/18)'s group at Shenzhen Research Institute of Big Data(SRIBD). 
+I'm currently a teacher at [Shandong University of Technology(SDUT)](https://www.sdut.edu.cn/). Before joining SDUT, I obtained my Ph.D. from School of Mathematical Sciences, Capital Normal University in June, 2009.  
 
 Research interest: Compressed sensing
 
@@ -35,4 +35,4 @@ Research interest: Compressed sensing
 2. Wenxin Hou, Han Zhu, Yidong Wang, <u>Jindong Wang</u><sup>#</sup>, Tao Qin, Renjun Xu, and Takahiro Shinozaki. Exploiting Adapters for Cross-lingual Low-resource Speech Recognition. arXiv preprint arXiv:2105.11905. [[arXiv](https://arxiv.org/abs/2105.11905)] [[code](https://github.com/jindongwang/transferlearning/tree/master/code/ASR)]
 3. <u>Jindong Wang</u>, Wenjie Feng, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, and Tie-Yan Liu. Learning Invariant Representations across Domains and Tasks. arXiv preprint arXiv:2103.05114. [[arXiv](https://arxiv.org/abs/2103.05114)]
 4. Chaohui Yu, <u>Jindong Wang</u><sup>#</sup>, Chang Liu, Tao Qin, Renjun Xu, Wenjie Feng, Yiqiang Chen, and Tie-Yan Liu. Learning to match distributions for domain adaptation. arXiv preprint arXiv:2007.10791. [[arXiv](http://arxiv.org/abs/https://arxiv.org/abs/2007.10791)] -->
-5.  N. Meng, Y. B. Zhao<sup>#</sup>,  M. Ko\v{c}vara, and <u>Z. F.  Sun</u>. Partial gradient optimal thresholding algorithms for a class of sparse optimization problems. J. Glob. Optim., 2022. [[Online](https://doi.org/10.1007/s10898-022-01143-1)] -->
+
