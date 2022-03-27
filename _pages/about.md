@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 School of Mathematics and Statistics, Shandong University of Technology, Zibo, Shandong, China
 Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
-zfsun [at] sdut.eu.cn, zfsun@sdut.eu.cn<br>
+zfsun [at] sdut.eu.cn<br>
 | [Github](https://github.com/jindongwang) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_jindongwang_cn-eng.pdf)
 
 I'm currently a teacher at [Shandong University of Technology(SDUT)](https://www.sdut.edu.cn/). Before joining SDUT, I obtained my Ph.D. from School of Mathematical Sciences, Capital Normal University in June, 2009.  In 2021/08--2021/10, I was a visitor of Prof. [Yunbin Zhao](http://www.sribd.cn/teacher/18)'s group at Shenzhen Research Institute of Big Data(SRIBD). 
