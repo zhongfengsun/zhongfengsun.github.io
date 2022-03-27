@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-School of Mathematics and Statistics, Shandong University of Technology, Zibo, Shandong, China
+School of Mathematics and Statistics, Shandong University of Technology
 
 E-mail: zfsun@sdut.eu.cn<br>
 | [Github](https://github.com/jindongwang) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_jindongwang_cn-eng.pdf)
