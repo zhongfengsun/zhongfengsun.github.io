@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: szf.png
+  image:
   address: 
 
 news: true  # includes a list of news items
