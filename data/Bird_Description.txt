@@ -1,0 +1,18 @@
+Digital signal of a bird singing
+
+Access
+    load Bird.mat  (In Matlab) or  load Bird.txt 
+  
+Size
+    16,384 by 1
+
+Sampling Rate
+    Fs=48kHz
+    
+Description
+    This signal was first used in an article "Z. F. Sun, Y. B. Zhao∗, J. C. Zhou, and Z. H. Huang. 
+    Dynamic subspace optimal thresholding algorithm for sparse linear inverse problems. 2024."
+
+Source
+    The signal was sampled by Zhong-Feng Sun at July 13, 2023, 
+    which is the sound of an unkwon Bird in WuTong Moutain(ShenZhen).
