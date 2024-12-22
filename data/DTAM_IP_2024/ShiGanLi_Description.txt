@@ -6,9 +6,14 @@ Access
 Size
     1024 by 1024 by 3
 
-Description
-    This image was first used in an article "Z. F. Sun, Y. B. Zhao∗, J. C. Zhou, and Z. H. Huang. 
-    Dynamic subspace optimal thresholding algorithm for sparse linear inverse problems. 2024."
-
 Source
     Photograph of ShiGanLi by Zhong-Feng Sun at September 4, 2007, which is a cooking vessel in the ancient world.
+
+Note
+    This image was first used in [1]. You are free to use this image  for research purposes. All publications which use this image should cite the references [1] and [2].
+
+References:
+[1] Z. F. Sun, Y. B. Zhao, J. C. Zhou, and Z. H. Huang. Dynamic thresholding algorithm with memory for linear inverse problems. Inverse Probl., 41: 015004, 2025.
+
+[2] Z. F. Sun. zhongfengsun.github.io, 2024. (available at: https://github.com/zhongfengsun/zhongfengsun.github.io/tree/gh-pages/data/DTAM_IP_2024)
+
