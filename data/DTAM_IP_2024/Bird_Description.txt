@@ -9,10 +9,13 @@ Size
 Sampling Rate
     Fs=48kHz
     
-Description
-    This signal was first used in an article "Z. F. Sun, Y. B. Zhao∗, J. C. Zhou, and Z. H. Huang. 
-    Dynamic subspace optimal thresholding algorithm for sparse linear inverse problems. 2024."
-
 Source
-    The signal was sampled by Zhong-Feng Sun at July 13, 2023, 
-    which is the sound of an unkwon Bird in WuTong Moutain(ShenZhen).
+    The signal was sampled by Zhong-Feng Sun at July 13, 2023,  which is the sound of an unkwon Bird in WuTong Moutain(ShenZhen).
+
+Note
+    This signal was first used in [1]. You are free to use this signal  for research purposes. All publications which use this signal should cite the references [1] and [2].
+
+References:
+[1] Z. F. Sun, Y. B. Zhao, J. C. Zhou, and Z. H. Huang. Dynamic thresholding algorithm with memory for linear inverse problems. Inverse Probl., 41: 015004, 2025.
+
+[2] Z. F. Sun. zhongfengsun.github.io, 2024. (available at: https://github.com/zhongfengsun/zhongfengsun.github.io/tree/gh-pages/data/DTAM_IP_2024)
