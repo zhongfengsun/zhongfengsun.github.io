@@ -15,5 +15,6 @@ Note
 References:
 [1] Y.B. Zhao,  Z.F. Sun, Splitting alternating algorithms for sparse solutions of linear systems with concatenated orthogonal matrices, SIAM J. Matrix Anal. Appl., 2025, 46(4), 2310-2330.
 
-[2] Z. F. Sun. zhongfengsun.github.io, 2024. (available at: https://github.com/zhongfengsun/zhongfengsun.github.io/tree/gh-pages/data/SAA_SIMAX_2025)
+[2] Z.F. Sun. zhongfengsun.github.io, 2024. (available at: https://github.com/zhongfengsun/zhongfengsun.github.io/tree/gh-pages/data/SAA_SIMAX_2025)
+
 
