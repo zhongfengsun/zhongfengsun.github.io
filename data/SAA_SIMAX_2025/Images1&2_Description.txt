@@ -1,0 +1,19 @@
+MRI  Images
+
+Access
+    Read_Image('Name'); (In Matlab, Name='Image1'  or 'Image2'）
+  
+Size
+    174  by 192 
+
+Source
+Images 1 and 2 are provided courtesy of Shandong Zibo Central Hospital on August 12, 2023. They are brain MRI images of Qichen Sun, the son of Zhongfeng Sun. 
+
+Note
+    These images were first used in [1]. You are free to use these images  for research purposes. All publications which use these images should cite the references [1] and [2].
+
+References:
+[1] Y.B. Zhao,  Z.F. Sun, Splitting alternating algorithms for sparse solutions of linear systems with concatenated orthogonal matrices, SIAM J. Matrix Anal. Appl., 2025, 46(4), 2310-2330.
+
+[2] Z. F. Sun. zhongfengsun.github.io, 2024. (available at: https://github.com/zhongfengsun/zhongfengsun.github.io/tree/gh-pages/data/SAA_SIMAX_2025)
+
