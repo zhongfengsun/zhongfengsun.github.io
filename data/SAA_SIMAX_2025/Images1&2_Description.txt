@@ -7,7 +7,7 @@ Size
     174  by 192 
 
 Source
-Images 1 and 2 are provided courtesy of Shandong Zibo Central Hospital on August 12, 2023. They are brain MRI images of Qichen Sun, the son of Zhongfeng Sun. 
+Images 1 and 2 are provided courtesy of Shandong Zibo Central Hospital on August 12, 2023. They are brain MRI images of Qichen Sun, the son of Zhongfeng Sun. The ownership of these images belongs to  Zhongfeng Sun.
 
 Note
     These images were first used in [1]. You are free to use these images  for research purposes. All publications which use these images should cite the references [1] and [2].
