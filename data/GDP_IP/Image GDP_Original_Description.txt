@@ -7,7 +7,7 @@ Size
   348  by 384
 
 Source
-Image 'GDP_Original.png' is provided courtesy of Shandong Zibo Central Hospital on August 12, 2023. It is a brain MRI image of Qichen Sun, the son of Zhongfeng Sun. 
+Image 'GDP_Original.png' is provided courtesy of Shandong Zibo Central Hospital on August 12, 2023. It is a brain MRI image of Qichen Sun, the son of Zhongfeng Sun. The ownership of this image belongs to  Zhongfeng Sun.
 
 Note
     This image was first used in [1]. You are free to use this image  for research purposes. All publications which use this image should cite the references [1] and [2].
